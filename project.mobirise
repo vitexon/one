@@ -180,7 +180,7 @@
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
