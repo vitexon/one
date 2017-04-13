@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -131,7 +131,7 @@
           },
           "_anchor": "header1-j",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/naturemeetssciencevitexon-2000x1167.png",
