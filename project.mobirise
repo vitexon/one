@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -120,22 +120,26 @@
           "text": "<p>With over 25 years .experience in the sports nutrition and pharmaceutical industries, we truly are specialists in our field,&nbsp;</p><p>Our policy is to only produce supplements that we use ourselves or give to our families, this commitment and our passion about health, drives us to deliver some of the best dietary supplements available in todays market.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title I": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "header1-j",
+          "_name": "content5",
+          "_anchor": "content5-n",
           "_params": {
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "showArrow": false,
+            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/naturemeetssciencevitexonsmall-2000x1166.png",
-            "bgColor": "#a07e49",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -144,14 +148,11 @@
             "overlay": true,
             "overlayOpacity": "0.1",
             "overlayColor": "#000",
-            "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "showCaption": false
           },
-          "title": "<span style=\"font-weight: normal;\">Vitexon<br>Where Nature meets Science</span>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "Vitexon<br>Where Nature meets Science",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
           "_tags": [
