@@ -300,7 +300,7 @@
           "title": "CONTACT FORM",
           "subtitle": "We aim to respond within 2 working days",
           "form": {
-            "action": "rashidayub@gmail.com",
+            "action": "vitexon2016@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -326,7 +326,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
