@@ -131,7 +131,7 @@
           },
           "_anchor": "header1-j",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/naturemeetssciencevitexon-2000x1167.png",
