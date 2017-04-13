@@ -25,7 +25,9 @@
     "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/vitexonweblogosmall-128x60.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
