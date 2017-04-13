@@ -62,7 +62,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-a",
           "_params": {
-            "imageSize": "37",
+            "imageSize": "20",
             "paddingTop": 0,
             "paddingBottom": "0",
             "parallax": true,
@@ -78,8 +78,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": false,
-            "showText": true,
+            "showTitle": true,
+            "showText": false,
             "showButtons": false
           },
           "media": {
@@ -104,9 +104,16 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "Where Nature meets Science",
           "text": "Where Nature meets Science.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#cccccc",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
