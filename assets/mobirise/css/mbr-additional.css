@@ -414,7 +414,7 @@ h6,
   opacity: 0 !important;
 }
 #msg-box5-a H3 {
-  color: #cccccc;
+  color: #2c492a;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #content5-n .mbr-section-title,
@@ -423,6 +423,7 @@ h6,
 }
 #content5-n .mbr-section-title {
   text-align: center;
+  color: #c1c1c1;
 }
 #form1-3 .form-control-label {
   color: #232323;
