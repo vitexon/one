@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -414,6 +415,14 @@ h6,
   opacity: 0 !important;
 }
 #msg-box5-a H3 {
+  color: #2c492a;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r H3 {
   color: #2c492a;
   font-family: 'Roboto Condensed', sans-serif;
 }

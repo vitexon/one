@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -105,7 +105,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
             "inverse": true,
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": false
           },
@@ -134,6 +134,31 @@
           "title": "Where Nature meets Science",
           "text": "Where Nature meets Science.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#2c492a",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#e7e7e7",
+            "showMeta": false
+          },
+          "title": "Where Nature meets Science",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
