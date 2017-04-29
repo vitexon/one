@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vitexon",
-    "currentPage": "index.html",
+    "currentPage": "SynergyBurn",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -545,7 +545,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-star-600x139.png",
+              "src": "@PROJECT_PATH@/assets/images/four-star1-1-600x147.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -557,7 +557,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Claire, from Newcastle",
-          "caption1": "Works &nbsp;alright, just a little bit strong &nbsp;for me, I had to stay on 1 a day for a while before going to 2, but that just meant I got more for my money.",
+          "caption1": "Works &nbsp;great, just a little bit strong &nbsp;for me, I had to stay on 1 a day for a while before going to 2, but that just meant I got more for my money.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -577,7 +577,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/four-star1-600x147.png",
+              "src": "@PROJECT_PATH@/assets/images/5-star-600x139.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
