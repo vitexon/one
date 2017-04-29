@@ -437,3 +437,16 @@ h6,
 #form1-3 .form-control-label {
   color: #232323;
 }
+#header2-s .mbr-section-text {
+  text-align: left;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
+  color: #c0a375;
+}
+#features1-t .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
