@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vitexon",
-    "currentPage": "SynergyBurn",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -235,7 +235,7 @@
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
