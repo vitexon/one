@@ -243,10 +243,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SynergyBurn",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "title1": "Bootstrap 4",
