@@ -193,7 +193,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/naturemeets-science-2000x1167.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/naturemeets-sciencelow-2000x1167.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
