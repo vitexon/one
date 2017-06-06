@@ -230,7 +230,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": "5",
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -303,7 +303,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ff-1-600x436.png",
+              "src": "@PROJECT_PATH@/assets/images/ps-600x436.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
