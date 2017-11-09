@@ -113,7 +113,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vitexonweblogosmall-1400x659.png",
+              "src": "@PROJECT_PATH@/assets/images/vitexonweblogo2017-1400x644.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -231,7 +231,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "columns": "5",
-            "showImages": true,
+            "showImages": false,
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
@@ -407,7 +407,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vitexonweblogosmall-1-128x60.png",
+              "src": "@PROJECT_PATH@/assets/images/vitexonweblogo2017-128x58.png",
               "width": 128,
               "active": true,
               "link": "",
