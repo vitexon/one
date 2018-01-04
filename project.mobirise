@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vitexon",
-    "currentPage": "index.html",
+    "currentPage": "p.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -910,7 +910,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>BCAA info</p>",
           "_tags": [
             "Theme"
           ],
@@ -1033,7 +1033,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>BCAA tabs info</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1274,10 +1274,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.516rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1388,10 +1388,10 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -1724,7 +1724,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>pb info</p>",
           "_tags": [
             "Theme"
           ],
@@ -1850,7 +1850,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>pb info</p>",
           "_tags": [
             "Theme"
           ],
