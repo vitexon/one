@@ -115,7 +115,7 @@
             "paddingBottom": 1,
             "bgColor": "#e7e7e7"
           },
-          "text": "<p>With over 25 years experience in the sports nutrition and pharmaceutical industries, we truly are specialists in our field.&nbsp;</p><p>Our policy is to only sell supplements that we use ourselves or give to our families. This commitment and our passion about natural health, drives us to deliver some of the best products available in todays market.</p>",
+          "text": "<p>At Vitexon We're passionate about health and with over 25 years experience in the sports nutrition and pharmaceutical industries, we truly understand our field. W<span style=\"font-size: 1.07rem;\">e have come to the conclusion that nature provides us with the best food and medicine, join us on our journey returning to nature.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>Our policy is to only sell items we use ourselves or give to our families. This commitment and our passion about natural health, drives us to deliver some of the best products available in todays market.</p>",
           "_styles": {
             "P": {
               "font-family": "'Indie Flower', cursive",
@@ -149,12 +149,17 @@
           },
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">eBay</a>  ",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-28"
+          "_anchor": "header4-28",
+          "_styles": {
+            ".btn": {
+              "font-size": "32px"
+            }
+          }
         },
         {
           "_tags": [
